@@ -1,0 +1,22 @@
+p {
+  text-align: center;
+  color: gray;
+}
+table {
+  max-width: 50rem;
+  text-align: right;
+  margin: 2rem auto;
+  border-spacing: 1rem;
+  padding: 1rem;
+  table-layout: fixed;
+  /* background-color: #00e28b; */
+}
+thead {
+  font-size: 0.75rem;
+  color: #1d1c1c;
+  font-weight: bold;
+}
+tbody {
+  font-size: 0.9rem;
+  color: #484c4b;
+}
